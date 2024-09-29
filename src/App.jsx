@@ -1,7 +1,7 @@
 
 import './App.css';
 import React, { useState, useEffect } from 'react';
-import Navbar from './components/navbar/Navbar.jsx';
+import Navbar from './components/componentNavbar/Navbar.jsx';
 import { Routes, Route } from "react-router-dom";
 import StatusFilterPage from './pages/StatusFilterPage/statusFilterPage.jsx';
 import UserFilterPage from './pages/UserFilterPage/userFilterPage.jsx';
